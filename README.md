@@ -12,7 +12,7 @@ This task demonstrates how to:
 - Update missing/null fields using `UPDATE` with `WHERE` conditions
 - Delete records based on condition using `DELETE`
 
-## Fixes from Previous Version
+
 - Added `DROP TABLE IF EXISTS` to prevent duplicate primary key errors if the script is re-run.
 
 ## Outcome
